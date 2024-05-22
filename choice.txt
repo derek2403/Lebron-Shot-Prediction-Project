@@ -1,0 +1,68 @@
+ACTION_TYPE:
+Alley Oop Dunk Shot: 0
+Alley Oop Layup shot: 1
+Cutting Dunk Shot: 2
+Cutting Finger Roll Layup Shot: 3
+Cutting Layup Shot: 4
+Driving Bank Hook Shot: 5
+Driving Bank shot: 6
+Driving Dunk Shot: 7
+Driving Finger Roll Layup Shot: 8
+Driving Finger Roll Shot: 9
+Driving Floating Bank Jump Shot: 10
+Driving Floating Jump Shot: 11
+Driving Hook Shot: 12
+Driving Jump shot: 13
+Driving Layup Shot: 14
+Driving Reverse Dunk Shot: 15
+Driving Reverse Layup Shot: 16
+Driving Slam Dunk Shot: 17
+Dunk Shot: 18
+Fadeaway Bank shot: 19
+Fadeaway Jump Shot: 20
+Finger Roll Layup Shot: 21
+Finger Roll Shot: 22
+Floating Jump shot: 23
+Follow Up Dunk Shot: 24
+Hook Bank Shot: 25
+Hook Shot: 26
+Jump Bank Shot: 27
+Jump Hook Shot: 28
+Jump Shot: 29
+Layup Shot: 30
+Pullup Bank shot: 31
+Pullup Jump shot: 32
+Putback Dunk Shot: 33
+Putback Layup Shot: 34
+Putback Reverse Dunk Shot: 35
+Putback Slam Dunk Shot: 36
+Reverse Dunk Shot: 37
+Reverse Layup Shot: 38
+Reverse Slam Dunk Shot: 39
+Running Alley Oop Dunk Shot: 40
+Running Alley Oop Layup Shot: 41
+Running Bank Hook Shot: 42
+Running Bank shot: 43
+Running Dunk Shot: 44
+Running Finger Roll Layup Shot: 45
+Running Finger Roll Shot: 46
+Running Hook Shot: 47
+Running Jump Shot: 48
+Running Layup Shot: 49
+Running Pull-Up Jump Shot: 50
+Running Reverse Dunk Shot: 51
+Running Reverse Layup Shot: 52
+Running Slam Dunk Shot: 53
+Slam Dunk Shot: 54
+Step Back Bank Jump Shot: 55
+Step Back Jump shot: 56
+Tip Dunk Shot: 57
+Tip Layup Shot: 58
+Tip Shot: 59
+Turnaround Bank Hook Shot: 60
+Turnaround Bank shot: 61
+Turnaround Fadeaway Bank Jump Shot: 62
+Turnaround Fadeaway shot: 63
+Turnaround Finger Roll Shot: 64
+Turnaround Hook Shot: 65
+Turnaround Jump Shot: 66
